@@ -1,0 +1,11 @@
+   {
+       "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+       "id": "Voidaspect.batman",
+       "name": "Batman",
+       "description": "A modern rebuild of the Batman suit.",
+       "authors": ["Voidaspect"],
+       "frameworkVersion": "2.33.27",
+       "version": "1.0.0",
+       "contentFolders": ["content"],
+       "blobsFolders": ["blobs"]
+   }
